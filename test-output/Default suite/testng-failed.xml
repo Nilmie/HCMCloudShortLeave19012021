@@ -5,7 +5,7 @@
     <classes>
       <class name="Test.Runner">
         <methods>
-          <include name="ESS_LeaveRequest"/>
+          <include name="ESS_ShortLeaveRequest"/>
         </methods>
       </class> <!-- Test.Runner -->
     </classes>
